@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\bin\Debug\ProjFilaAtendimento.exe.config
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\bin\Debug\ProjFilaAtendimento.exe
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\bin\Debug\ProjFilaAtendimento.pdb
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\ProjFilaAtendimento.Form1.resources
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\ProjFilaAtendimento.Properties.Resources.resources
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.csproj.GenerateResource.Cache
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\projFilaAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\ProjFilaAtendimento.exe
+C:\Users\aluno\source\repos\projFilaAtendimento\projFilaAtendimento\obj\Debug\ProjFilaAtendimento.pdb
